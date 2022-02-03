@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Bowl de ceramica",
+    "price": 598,
+    "urlImage": "urlImage",
+    "id": 0
+  },
+  {
+    "name": "Taza de cafe",
+    "price": 951,
+    "urlImage": "urlImage",
+    "id": 1
+  },
+  {
+    "name": "Jarra de agua",
+    "price": 5641,
+    "urlImage": "urlImage",
+    "id": 2
+  },
+  {
+    "id": 3,
+    "name": "Salmon tallado",
+    "price": 6924,
+    "urlImage": "urlImage"
+  }
+]

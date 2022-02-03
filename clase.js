@@ -1,7 +1,7 @@
 const fs = require('fs').promises;
 
 class Contenedor {
-    constructor(file) { 
+    constructor(file) {
         this.file = file;
     }
 
